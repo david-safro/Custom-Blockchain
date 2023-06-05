@@ -1,6 +1,6 @@
 import hashlib
 
-#h
+#working
 class Block:
     def __init__(self, index, timestamp, data, previous_hash):
         self.index = index
