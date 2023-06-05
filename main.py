@@ -40,7 +40,7 @@ print(f'''\nBalances after second mining:
 
 # Validate the blockchain
 is_valid = glitchez_coin.is_chain_valid()
-print(f"\nIs the blockchain valid? {is_valid}")
+print(f"\nBlockchain validated: {is_valid}")
 
 # Print the blockchain
 print(f"\nBlockchain: \n{glitchez_coin}")
