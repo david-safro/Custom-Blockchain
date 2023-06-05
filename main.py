@@ -1,6 +1,5 @@
 from chain import Blockchain
 from block import Block
-#hwork
 # Create a new blockchain
 glitchez_coin = Blockchain()
 
