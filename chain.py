@@ -1,4 +1,5 @@
-from block import Block, Transaction
+from block import Block
+from transaction import Transaction
 import time
 
 class Blockchain:
