@@ -1,6 +1,6 @@
 import hashlib
 import time
-
+#bruh
 
 class Block:
     def __init__(self, index, timestamp, data, previous_hash):
